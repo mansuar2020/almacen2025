@@ -119,7 +119,10 @@ const allProducts = [
   { code: "3406-000054", name: "TRANSMISOR MAGNETICO DC-29 CLIMAX sin bornera"},
   { code: "2450-000382", name: "Caja estanco IP65 115x115x110"},
   { code: "3901-000010", name: "MP300 SIRENA DE EXTERIOR sin bateria"},
-  { code: "3412-000199", name: "OUTDOOR PIRCAM climax"}
+  { code: "3412-000199", name: "OUTDOOR PIRCAM climax"},
+  { code: "2351-000860", name: "FUENTE SWITCHING DE TENSIÓN DE SALIDA 5VCC 2000MA PARA CÁMARAS PTZ"},
+  { code: "3359-000010", name: "DAHUA  PTZ IP INDOOR CAMERA 1080P 2.8MM W/O POWER SUPPLY"},
+  
 ]
 
 document.getElementById("searchInput").addEventListener("input", function () {
